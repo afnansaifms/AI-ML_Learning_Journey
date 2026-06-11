@@ -1,0 +1,39 @@
+Name: Rahul Sharma
+Email: rahul.sharma@gmail.com
+Phone: +91 9876543210
+Date: 12/05/2025
+URL: https://www.example.com
+
+Name: Priya Patel
+Email: priya.patel@yahoo.in
+Phone: +91-9988776655
+Date: 2025-06-18
+
+Name: Amit Verma
+Email: amit.verma@company.com
+URL: http://company.org/contact
+Date: Feb 14, 2026
+phone : 321-244-333
+321.345.678
+765*678*854
+Name: Neha Gupta
+Phone: 98765-43210
+Date: 01-01-2024
+
+Name: Arjun Mehta
+Email: arjun.mehta@outlook.com
+URL: https://portfolio.example.net
+Date: 25/12/2023
+
+Name: Sneha Reddy
+Email: sneha.reddy@service.io
+Date: 2024-11-30
+
+Name: Vikram Singh
+Phone: 022-24567890
+Date: Mar 08, 2025
+
+Email: support@service.io
+Phone: +1-555-123-4567
+Date: 2026-01-15
+URL: https://blog.example.com

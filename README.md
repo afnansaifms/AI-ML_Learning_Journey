@@ -1,21 +1,25 @@
-
 # AI & ML Learning Journey 🚀
 
 Documenting my journey toward becoming an AI/ML Engineer through hands-on coding, projects, and continuous learning.
 
 ## 🎯 Goal
+
 To master AI, Machine Learning, Deep Learning, NLP, LLMs, and MLOps while building real-world projects.
 
 ## 📚 Learning Roadmap
 
 ### Python Foundations
-- [x] NumPy
-- [ ] Pandas
-- [ ] OOP
-- [ ] File Handling
-- [ ] Regular Expressions
+
+- [x] NumPy — arrays, indexing, broadcasting
+- [x] Pandas — DataFrames, groupby, merge, apply
+- [x] OOP — classes, inheritance, dunder methods
+- [x] Regular Expressions — pattern matching, string manipulation
+- [x] File Handling — File I/O, JSON, CSV, error handling
+- [x] Git & GitHub — commit, branch, PR, merge conflicts
+- [x] Environment & Packaging — virtual envs, pip, requirements.txt, pyproject.toml
 
 ### Machine Learning
+
 - [ ] Statistics
 - [ ] Scikit-Learn
 - [ ] Regression
@@ -23,12 +27,14 @@ To master AI, Machine Learning, Deep Learning, NLP, LLMs, and MLOps while buildi
 - [ ] Clustering
 
 ### Deep Learning
+
 - [ ] Neural Networks
 - [ ] PyTorch
 - [ ] CNNs
 - [ ] RNNs
 
 ### NLP & LLMs
+
 - [ ] Text Processing
 - [ ] Word Embeddings
 - [ ] Transformers
@@ -39,16 +45,16 @@ To master AI, Machine Learning, Deep Learning, NLP, LLMs, and MLOps while buildi
 
 ## 📂 Repository Structure
 
+```
 AI-ML-Learning-Journey/
 ├── 01_Numpy/
 ├── 02_Pandas/
 ├── 03_OOP/
-├── 04_Regex/
-├── 05_Machine_Learning/
-├── 06_Deep_Learning/
-├── 07_NLP/
-├── 08_LLMs/
+├── 04_RegEx/
+├── 05_Git-Github/
+├── 06_File-Handling/
 └── Projects/
+```
 
 ## 🛠️ Tech Stack
 
@@ -69,8 +75,8 @@ AI-ML-Learning-Journey/
 
 ## 📈 Current Progress
 
-Completed:
-- NumPy ✅
+**Completed:**
+- Python Foundations (NumPy, Pandas, OOP, RegEx, File Handling, Git, Environment & Packaging)
 
-Currently Learning:
-- Pandas 🔄
+**Currently Learning:**
+- Machine Learning fundamentals (Statistics, Scikit-Learn)

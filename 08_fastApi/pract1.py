@@ -7,5 +7,6 @@ def get_user(limit: int=10):
 @app.get("/items")
 def get_user(name: str=None, price: int=0):
     return {
-        "name": limit
+        "name": name,
+        "price": price
         }
